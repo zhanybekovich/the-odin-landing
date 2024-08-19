@@ -121,3 +121,24 @@ img {
 .features-item-img {
   border-radius: 8px;
 }
+
+.testimonials {
+  padding: 64px 0;
+  background-color: #e5e7eb;
+}
+
+.testimonials-blockquote {
+  padding: 0 64px;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.testimonials-author {
+  padding-right: 128px;
+  font-weight: 700;
+  text-align: right;
+  color: #1f2937;
+  font-size: 36px;
+}
