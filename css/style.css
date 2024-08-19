@@ -93,3 +93,31 @@ img {
   height: 300px;
   object-fit: cover;
 }
+
+.features {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.features-title {
+  margin: 0 0 64px 0;
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+  text-align: center;
+}
+
+.features-cards {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+
+.features-card {
+  max-width: 200px;
+  text-align: center;
+}
+
+.features-item-img {
+  border-radius: 8px;
+}
